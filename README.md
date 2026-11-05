@@ -27,9 +27,11 @@ Second-year **BSc (Hons) Cyber Security & Digital Forensics** student at Bournem
 
 ## Projects
 
+## Projects
+
 - **[Vending Machine Program (Python)](https://github.com/Areeba-cyberz/vending-machine-python)**: coursework project (89/100) covering coin handling, purchases, multiple customers and receipts, with unit tests and a design report.
-- **[Enterprise Network Design (Cisco Packet Tracer)](https://github.com/Areeba-cyberz/packet-tracer-enterprise-network)**: a multi-floor enterprise network, with reflections on what I'd improve.
-- **[Cultural Integration Tourism App (Figma prototype)](https://github.com/Areeba-cyberz/cultural-integration-tourism-app-vietnam)**: an interactive prototype built during a two-week programme in Vietnam and presented to judges at a hackathon.
+- **[Enterprise Network Design (Cisco Packet Tracer)](https://github.com/Areeba-cyberz/packet-tracer-enterprise-network)**: a multi-floor enterprise network design, with reflections on what I'd improve.
+- **[Năm: Sustainable Tourism App Prototype (Figma Make)](https://github.com/Areeba-cyberz/Sustainable-Tourism-App-Prototype)**: a team hackathon project from a two-week programme in Vietnam, where I built the interactive prototype.
 
 ## Beyond tech
 
