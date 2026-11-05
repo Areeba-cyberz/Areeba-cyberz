@@ -2,9 +2,11 @@
 
 Second-year **BSc (Hons) Cyber Security & Digital Forensics** student at Bournemouth University.
 
-**I'm looking for a 30+ week placement for 2027-28** in cyber security, with a focus on SOC, GRC, consultancy or digital forensics. I'm based in Bournemouth and open to roles in Bournemouth, London and Manchester.
+**I'm looking for a 30+ week placement for 2027-28** in cyber security, with a focus on SOC, GRC, consultancy or digital forensics. I'm based in Bournemouth and open to roles in Bournemouth, London and Manchester and surrounding areas. 
+(https://github.com/user-attachments/files/34452877/Areeba_Khalid_CV.pdf)
 
-[Download my CV (PDF)](link-to-your-cv-file) | [Email me](mailto:Khalidareeba197@gmail.com)
+
+[Email me](mailto:Khalidareeba197@gmail.com)
 
 ---
 
